@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasmine-my
-- 👀 I’m interested in UX/UI design
+- 👀 I’m interested in FrontEnd Develop and UX/UI design
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: yeunk0206@naver.com
