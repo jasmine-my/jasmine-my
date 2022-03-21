@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jasmine-my
+- 👋 Hi, I’m yescode!
 - 👀 I’m interested in FrontEnd Develop and UX/UI design
-- 🌱 I’m currently learning HTML/CSS/Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React/Typescript/Next.js/Storybook
 - 📫 How to reach me email: yeunk0206@naver.com
 
 <!---
